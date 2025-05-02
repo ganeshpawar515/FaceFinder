@@ -17,5 +17,7 @@ This project performs **real-time face detection and recognition** using a webca
 
 ---
 
-## 📁 Project Structure
-
+## How to Run
+```Bash
+pip install -r requirements.txt
+python FaceFinder.py
